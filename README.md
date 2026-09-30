@@ -1,38 +1,41 @@
-# 🏆 Certifications & Achievements
+# 🌐 Cisco Networking Academy Certificates
 
-A collection of my professional certifications, courses, and achievements.
+This repository contains my completed **Cisco Networking Academy courses and certifications**, focused on networking, data science, and essential technology skills.
 
----
+## 📜 Completed Courses
 
-## 📊 Introduction to Data Science
+| # | Course                           | Verification                                                                                      |
+| - | -------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 1 | **Introduction to Data Science** | [View Certificate](https://www.credly.com/badges/2d027a1e-438f-440b-947a-792f1c10cd42/public_url) |
+| 2 | **Certificate 2**                | *Add certificate link*                                                                            |
+| 3 | **Certificate 3**                | *Add certificate link*                                                                            |
 
-**Cisco Networking Academy**
+## 🏅 Credly Badge
 
-I completed the **Introduction to Data Science** course and earned the associated digital badge.
+[View My Cisco Networking Academy Badge on Credly](https://www.credly.com/badges/2d027a1e-438f-440b-947a-792f1c10cd42/public_url)
 
-🔗 **Verify Certificate:**  
-https://www.credly.com/badges/2d027a1e-438f-440b-947a-792f1c10cd42/public_url
+## 🎯 What I Learned
 
----
+* Fundamentals of Data Science
+* Understanding data and its applications
+* Introduction to data-driven concepts
+* Essential technology and networking concepts
+* Practical understanding of modern digital technologies
 
-## 🤖 AI & Generative AI
+## 🚀 Purpose
 
-**Claude Academy**
-
-- Claude 101
-- Introduction to Claude Cowork
-- AI Capabilities and Limitations
-- Introduction to Claude Tag
-
----
-
-## 💻 Competitions & Milestones
-
-- 🥇 **Code Debugging Competition — Runner-up** — ZAB-E-FEST 2025
-- 💻 **Speed Coding Competition** — ZAB-E-FEST 2025
-- 🗄️ **DBMS Project Competition** — ZAB-E-FEST 2026
-- 🌐 **Web Development Projects & Practical Software Development**
+This repository documents my learning journey through **Cisco Networking Academy** and my continued development of skills in **Data Science, Networking, and Information Technology**.
 
 ---
 
-⭐ More certifications and achievements will be added as I continue learning and growing.
+### 👨‍💻 About Me
+
+**Rahul Kumar**
+BS Software Engineering Student · SZABIST Karachi
+
+> Keep learning • Keep building • Keep creating 🚀
+
+### 🔗 Connect With Me
+
+* [LinkedIn](https://www.linkedin.com/in/rahul-maheshwari-7375152b0)
+* [GitHub](https://github.com/rahulkumar10319)
