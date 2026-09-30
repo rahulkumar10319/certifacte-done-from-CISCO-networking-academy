@@ -7,8 +7,8 @@ This repository contains my completed **Cisco Networking Academy courses and cer
 | # | Course                           | Verification                                                                                      |
 | - | -------------------------------- | ------------------------------------------------------------------------------------------------- |
 | 1 | **Introduction to Data Science** | [View Certificate](https://www.credly.com/badges/2d027a1e-438f-440b-947a-792f1c10cd42/public_url) |
-| 2 | **Certificate 2**                | *Add certificate link*                                                                            |
-| 3 | **Certificate 3**                | *Add certificate link*                                                                            |
+| 2 | **Certificate 2**                | cisco1                                                                            |
+| 3 | **Certificate 3**                | cisco2                                                                            |
 
 ## 🏅 Credly Badge
 
